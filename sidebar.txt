@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[she:home|Door43 (she)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-she|d43-she repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-she/archive/master.zip|d43-she.zip]]
+
+**Recent Changes**
+{{changes>ns = she}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/she|Ethnologue data]]
+
